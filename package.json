@@ -2,9 +2,8 @@
   "name": "vsc",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
   "scripts": {
-    
+    "main" : "script.js"
   },
   "author": "",
   "license": "ISC"
